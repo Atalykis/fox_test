@@ -8,7 +8,7 @@ Run `yarn install` or `npm install`.
 
 You are expected to write your code `main.js` in the root folder. Expected results are located in the `expectedResults.js` file.
 
-You should use regex to extract information from samples.
+You should use Vanilla JS only, without accessing to the DOM but using regex to extract information from samples.
 
 To check your results when you're done run `yarn test` or `npm run test` depending on what tool you use.
 
