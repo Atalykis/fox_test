@@ -8,8 +8,8 @@ exports.result_1 = {
   distanceFee: 6.28,
   distanceUnit: "kilomètres",
   duration: "00:30:34",
-  timeFee: 5.09,
-  totalPricePaid: 34.43,
+  timeFee: 7.64,
+  totalPricePaid: 26.86,
 };
 
 exports.result_2 = {
@@ -37,5 +37,5 @@ exports.result_3 = {
   distanceUnit: "",
   duration: "",
   timeFee: 0,
-  totalPricePaid: 9.71,
+  totalPricePaid: 9.00,
 };
